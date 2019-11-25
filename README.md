@@ -45,4 +45,4 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
-- **An** - _Initial work_ - [PurpleBooth](https://github.com/codalife)
+- **An** - _Initial work_ - [codalife](https://github.com/codalife)
